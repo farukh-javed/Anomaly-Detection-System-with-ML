@@ -1,8 +1,8 @@
-# Intrusion Detection System with Machine Learning
+# Anomly Detection System with Machine Learning
 
 ## Overview
 
-This repository contains a comprehensive Intrusion Detection System (IDS) implemented using various machine learning algorithms. The system is designed to classify network traffic into normal and attack categories based on features extracted from network packets.
+This repository contains a comprehensive Anomaly Detection System (ADS) implemented using various machine learning algorithms. The system is designed to classify network traffic into normal and attack categories based on features extracted from network packets.
 
 ## Table of Contents
 
