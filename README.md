@@ -80,6 +80,6 @@ The evaluation results and visualizations can be found in the notebooks and the 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPL v3](LICENSE).
 
 Feel free to explore and contribute to the project! If you encounter any issues or have suggestions, please open an [issue](https://github.com/your-username/intrusion-detection-system/issues).
