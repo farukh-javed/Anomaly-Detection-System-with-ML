@@ -29,6 +29,7 @@ The goal of this project is to build and evaluate different machine learning mod
 
 Ensure that you have the following dependencies installed:
 
+- Jupyter Notebook
 - Python 3.x
 - NumPy
 - Pandas
@@ -38,7 +39,6 @@ Ensure that you have the following dependencies installed:
 - TensorFlow
 - XGBoost
 - Plotly
-- Jupyter Notebook
 
 You can install these dependencies using the following command:
 
